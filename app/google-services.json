@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "445244291754",
+    "firebase_url": "https://projektumfragetool2019.firebaseio.com",
+    "project_id": "projektumfragetool2019",
+    "storage_bucket": "projektumfragetool2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445244291754:android:217ded72d331a50e",
+        "android_client_info": {
+          "package_name": "com.apps4people.cl_firebaseuploadexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445244291754-5nv2todhu3rt6vii5qsjpnecghefgf89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps4people.cl_firebaseuploadexample",
+            "certificate_hash": "af78033bfddbd95fe7d3dd872d9914478f294b0a"
+          }
+        },
+        {
+          "client_id": "445244291754-b8tgp72v16oc4nqqvee9vm33bg1c8f5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtNn0MHKc6SxjI-lkD1tth4LoB1q4rqOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445244291754-b8tgp72v16oc4nqqvee9vm33bg1c8f5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445244291754:android:7db781d57ee87b23",
+        "android_client_info": {
+          "package_name": "de.proneucon.projekt_umfragetool_2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445244291754-ltvhapiariiuuga861eh1vqo20eht6se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.proneucon.projekt_umfragetool_2019",
+            "certificate_hash": "4f22cf101e89ceede93e8ee5ce7ed7b3516852c3"
+          }
+        },
+        {
+          "client_id": "445244291754-b8tgp72v16oc4nqqvee9vm33bg1c8f5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtNn0MHKc6SxjI-lkD1tth4LoB1q4rqOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445244291754-b8tgp72v16oc4nqqvee9vm33bg1c8f5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
